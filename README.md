@@ -164,12 +164,4 @@ Recommended: **MIT License**
 
 ---
 
-## 📬 Contact
 
-If you want, I can also provide:
-
-* An optimized `mostar_improved.py`
-* A ready-to-use GitHub repository structure
-* Tests + benchmarks
-
-Just ask! 👍
