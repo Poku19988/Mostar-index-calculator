@@ -2,6 +2,7 @@
 
 A Python script that computes the **Mostar index** of an undirected simple graph using BFS.
 This repository contains a clean, easy-to-read implementation and a minimal command-line interface for reading a graph and printing its Mostar index.
+BTW i put my recommandation letters in the license section!
 
 ---
 
