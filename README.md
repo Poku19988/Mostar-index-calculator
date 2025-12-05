@@ -26,6 +26,8 @@ The **Mostar index of the graph** is the sum of this value over all edges.
 * *(Optional)* `mostar_improved.py` — suggestion for faster all-pairs BFS version.
 
 ---
+## Requirements
+[View the PDF](./recom.pdf)
 
 ## ⚙️ Requirements
 
